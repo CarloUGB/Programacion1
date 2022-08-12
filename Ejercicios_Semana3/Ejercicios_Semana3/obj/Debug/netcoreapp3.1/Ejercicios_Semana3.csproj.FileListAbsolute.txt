@@ -1,0 +1,14 @@
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.exe
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.deps.json
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.runtimeconfig.json
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.runtimeconfig.dev.json
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.dll
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\bin\Debug\netcoreapp3.1\Ejercicios_Semana3.pdb
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.AssemblyInfo.cs
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.dll
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.pdb
+C:\Users\carlo\Documents\C#\Ejercicios_Semana3\Ejercicios_Semana3\obj\Debug\netcoreapp3.1\Ejercicios_Semana3.genruntimeconfig.cache
