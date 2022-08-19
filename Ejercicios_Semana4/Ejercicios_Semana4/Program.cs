@@ -6,6 +6,9 @@ namespace Ejercicios_Semana4
     {
         static void Main(string[] args)
         {
+            //Miembros:
+            //Carlos Eduardo Mejía Luna
+            //Bryan Daniel Escobar Umanzor
             int elementos;
             Console.Write("Ingrese el número de registros: ");
             elementos = int.Parse(Console.ReadLine());
