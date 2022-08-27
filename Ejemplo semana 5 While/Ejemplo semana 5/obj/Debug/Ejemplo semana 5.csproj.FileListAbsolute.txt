@@ -1,0 +1,21 @@
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe.config
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.pdb
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.exe
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.pdb
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csprojAssemblyReference.cache
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe.config
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.pdb
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.AssemblyReference.cache
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.exe
+C:\Users\luisb\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.pdb
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe.config
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.pdb
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.exe
+C:\Users\carlo\Documents\C#\Ejemplo semana 5 While\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.pdb
